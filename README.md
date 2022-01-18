@@ -33,3 +33,60 @@ void solve() {
         return;
     }
 }
+
+int main() {
+    solve();
+}
+```
+
+
+
+Python3
+
+```python
+n = int(input())
+def solve(n):
+    if n == 2:
+        print("NO")
+        return
+    if n % 2 == 0:
+        print("YES")
+        return
+    print("NO")
+
+solve(n)
+```
+
+
+
+Java
+
+```java
+import java.util.*;
+
+
+class A_Watermelon{
+    public static void main(String[] args) {
+        Scanner s = new Scanner(System.in);
+        int n = s.nextInt();
+        solve(n);
+
+    }
+
+    static void solve(int n) {
+        if (n == 2) {
+            System.out.println("NO");
+            return;
+        }
+        if (n % 2 == 0) {
+            System.out.println("YES");
+            return;
+        } else {
+            System.out.println("NO");
+            return;
+        }
+
+    }
+}
+```
+
