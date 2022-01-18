@@ -1,37 +1,92 @@
-## Welcome to GitHub Pages
+# 刷题记录
 
-You can use the [editor on GitHub](https://github.com/ShengyuanWang/ShengyuanWang.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+##  Codeforce
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 4A
 
-### Markdown
+#### Watermelon
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+题目内容： 把一个整数分成两个相同的正整数，并使这两个正整数都是二的倍数
 
-```markdown
-Syntax highlighted code block
+分析： 既然分成两个正整数且都是二的倍数那么这个一定是 $num = 2(a+b)$       $(a, b > 0) $
 
-# Header 1
-## Header 2
-### Header 3
+代码：
 
-- Bulleted
-- List
+C++
 
-1. Numbered
-2. List
+```c++
+#include <bits/stdc++.h>
+using namespace std;
 
-**Bold** and _Italic_ and `Code` text
+void solve() {
+    int a;
+    cin >> a;
+    if (a == 2) {
+        cout << "NO" << endl;
+        return;
+    }
+    if (a % 2 == 0) {
+        cout << "YES" << endl;
+        return;
+    } else {
+        cout << "NO" << endl;
+        return;
+    }
+}
 
-[Link](url) and ![Image](src)
+int main() {
+    solve();
+}
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ShengyuanWang/ShengyuanWang.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Python3
 
-### Support or Contact
+```python
+n = int(input())
+def solve(n):
+    if n == 2:
+        print("NO")
+        return
+    if n % 2 == 0:
+        print("YES")
+        return
+    print("NO")
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+solve(n)
+```
+
+
+
+Java
+
+```java
+import java.util.*;
+
+
+class A_Watermelon{
+    public static void main(String[] args) {
+        Scanner s = new Scanner(System.in);
+        int n = s.nextInt();
+        solve(n);
+
+    }
+
+    static void solve(int n) {
+        if (n == 2) {
+            System.out.println("NO");
+            return;
+        }
+        if (n % 2 == 0) {
+            System.out.println("YES");
+            return;
+        } else {
+            System.out.println("NO");
+            return;
+        }
+
+    }
+}
+```
+
