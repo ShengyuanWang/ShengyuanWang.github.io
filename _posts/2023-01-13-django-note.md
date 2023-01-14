@@ -4,7 +4,7 @@ title: "Django Note"
 date: 2023-01-13
 author: "SWang"
 header-img: "img/bg-material.jpg"
-tags: []
+tags: [Django]
 ---
 
 # Env Setup

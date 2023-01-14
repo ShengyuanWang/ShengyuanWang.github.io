@@ -4,7 +4,7 @@ title: "React Notes"
 subtitle: "Reflection #01"
 date: 2023-01-10
 author: "SWang"
-tags: [-- React]
+tags: [React]
 ---
 
 # 组件
