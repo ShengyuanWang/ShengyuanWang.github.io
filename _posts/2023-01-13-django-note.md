@@ -199,3 +199,130 @@ class Test(View):
 		def get(self, request):
 			pass
 ```
+
+# restful 规范&http 协议
+
+**Restful**
+
+```bash
+url定位资源，简单来说，通过一个url地址可以让我们知道这个地址所要提供的功能是什么
+比如说：127.0.0.1/add/user 可以看出我们这个url所要做的事情就是添加一个yonghu
+再比如说：127.0.0.1/get/user/1 就可以很轻松的读出来是获取一个用户并且这个用户id是1
+```
+
+**restful 常用方法**
+
+```bash
+Get 获取资源时使用 比如我们查看一个网页
+Post 提交资源时使用 比如我们注册一个用户的时候
+Put 修改资源的时候 比如我们修改自己的用户信息的时候
+Delete 删除资源时使用 比如我们注销我们账号的时候
+```
+
+**Http 协议**
+
+```bash
+网上应用最为广泛的一种网络协议，所有www文件都必须遵守这个标准
+```
+
+**Http 的无状态性**
+
+```bash
+无状态是指，当浏览器发送请求给服务器的时候，服务器响应客户端的请求，但是当用一个浏览器再次给你服务器发送请求的时候，服务器并不知道它就是刚才的那个浏览器
+简单的说，服务器不会记得你，所以就是无状态协议
+```
+
+**Http 常用状态码**
+
+```
+200 成功
+400 请求错误，一般是参数格式有问题的时候出现
+402 禁止访问
+404 没有获取到url地址
+405 方法仅用，比如这个地址指定用get方法，但你用了post，就会有这个提示
+500 服务器异常
+```
+
+# 模版 Template 介绍，配置，以及 View 绑定
+
+**template 模版**
+
+```bash
+模版可以动态生成Html网页，它包括部分Html代码和一些特殊的语法
+```
+
+**template 配置方法**
+
+```bash
+一半template模版存放在“template”目录中
+通过在项目settings的templates的DIRS列表中添加对应的路径即可 比如
+	os.path.join(BASE_DIR, 'templates')
+```
+
+**Template 与视图的绑定**
+
+```bash
+通过 from django.shortcuts import render 模块
+return render(request, template_path, {k:v})
+字典中的key和value就是要向前端渲染出的数据
+```
+
+**Template 展示渲染的数据**
+
+```
+在html中以{.{.}.}为标示，在双打括号中传入视图中传入的数据
+```
+
+**视图中的基本写法**
+
+```bash
+from django.shortcuts import render
+from django.views import View
+
+class Index(View):
+	def get(self, request):
+		return render(request, 'index.html', {key: value})
+```
+
+# Template 内置标签与静态文件配置
+
+**变量与标签**
+
+```bash
+什么是变量？
+	变量用{.{.}.}双打括号包裹，比如我们后端渲染过来的数据，用双大括号来包裹，例如{{name}}
+内置标签
+内置标签类型，用{.% %.}大括号， 左右各一个百分号包裹
+```
+
+**内置标签**
+
+![form-example](/img/in_post/2023-01-03-django-note/form-example.png)
+
+**for 标签模版**
+
+```bash
+forloop.counter 从1开始计算获取当前索引
+forloop.counter0 从0开始计算获取当前索引
+forloop.recounter 索引从最大数递减到1
+forloop.recounter0 索引从最大数递减到0
+forloop.first 当前元素是否是第一个
+forloop.last 当前元素是否为最后一个
+empty 为空的情况
+```
+
+**静态文件配置**
+
+```bash
+项目根目录‘static’与‘templates’文件夹同级
+在settings文件中配置static文件夹
+STATICFILES_DIRS = (os.path.join(BASE_DIR, 'static')))
+```
+
+**什么是静态文件？**
+
+```bash
+CSS 样式文件
+JS 文件
+IMG 图片等文件
+```
