@@ -4,7 +4,7 @@ title: "Mysql Note"
 subtitle: "Personal Reflection About Mysql Learning"
 date: 2023-01-16
 author: "SWang"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/bg-material.jpg"
 tags: [Mysql]
 ---
 
