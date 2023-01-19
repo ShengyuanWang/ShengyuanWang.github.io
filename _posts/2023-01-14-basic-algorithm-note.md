@@ -421,3 +421,36 @@ vector<int> div(vector<int> &A, int b, int &r)
     return C;
 }
 ```
+
+## 前缀和
+
+Q: 什么事前缀和
+A:
+原始数组 a[1], a[2], a[3], ... , a[n]
+前缀和： Si 为数组前 i 项和， 即 S[i] = a[1] + a[2] + a[3] + ... + a[i]
+注意： 前缀和的下标最好从 1 开始，避免进行下标的转换
+
+> s[0] = 0
+> s[1] = a[1]
+> s[2] = a[1] + a[2]
+
+前缀和的作用
+快速求出数组中某段区间的和
+
+一维数组求解前缀和(Si)
+1. for 循环求出 每个S[i] (将S[i]定义为0， 避免下标的转换)
+2. 求出[l, r]中的和, 即S[r] - S[l-1]
+
+```java
+static void main(String[] args)
+{
+    Scanner in = new Scanner(System.in);
+    int n = in.nextInt(), m = in.nextInt();
+    int[] arr = new int[N];
+    for (int i = 1; i <= n; i++)
+    {
+        arr[i]  =in.nextInt();
+    }
+    int s[]
+}
+```
