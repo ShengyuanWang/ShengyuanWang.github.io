@@ -13,6 +13,79 @@ Select Language：
 
 <h1 id="0"></h1>
 
+## InsertionSort
+
+`Java`
+
+```java
+void sort(int arr[])
+{
+    int n = arr.length;
+    for (int i = 1; i < n; ++i) {
+        int key = arr[i];
+        int j = i - 1;
+
+        /* Move elements of arr[0..i-1], that are
+            greater than key, to one position ahead
+            of their current position */
+        while (j >= 0 && arr[j] > key) {
+            arr[j + 1] = arr[j];
+            j = j - 1;
+        }
+        arr[j + 1] = key;
+    }
+}
+```
+
+`C++`
+
+```cpp
+void insertionSort(int arr[], int n)
+{
+    int i, key, j;
+    for (i = 1; i < n; i++)
+    {
+        key = arr[i];
+        j = i - 1;
+
+        // Move elements of arr[0..i-1],
+        // that are greater than key, to one
+        // position ahead of their
+        // current position
+        while (j >= 0 && arr[j] > key)
+        {
+            arr[j + 1] = arr[j];
+            j = j - 1;
+        }
+        arr[j + 1] = key;
+    }
+}
+```
+
+`Python`
+
+```python
+
+# Python program for implementation of Insertion Sort
+
+# Function to do insertion sort
+def insertionSort(arr):
+
+    # Traverse through 1 to len(arr)
+    for i in range(1, len(arr)):
+
+        key = arr[i]
+
+        # Move elements of arr[0..i-1], that are
+        # greater than key, to one position ahead
+        # of their current position
+        j = i-1
+        while j >= 0 and key < arr[j] :
+                arr[j + 1] = arr[j]
+                j -= 1
+        arr[j + 1] = key
+```
+
 ## QuickSort
 
 ```cpp
@@ -438,8 +511,9 @@ A:
 快速求出数组中某段区间的和
 
 一维数组求解前缀和(Si)
-1. for 循环求出 每个S[i] (将S[i]定义为0， 避免下标的转换)
-2. 求出[l, r]中的和, 即S[r] - S[l-1]
+
+1. for 循环求出 每个 S[i] (将 S[i]定义为 0， 避免下标的转换)
+2. 求出[l, r]中的和, 即 S[r] - S[l-1]
 
 ```java
 static void main(String[] args)
