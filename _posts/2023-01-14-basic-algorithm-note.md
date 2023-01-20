@@ -13,6 +13,28 @@ Select Language：
 
 <h1 id="0"></h1>
 
+## QuickSort
+
+```cpp
+void quick_sort(int q[], int l, int r)
+{
+	if (l >= r) return;
+
+// Step 1: Divide the Large Problem into sub problems
+	int i = l - 1, j = r + 1, x = q[l + r >> 1];
+	while (i < j) {
+		do i ++; while (q[i] < x);
+		do j ++; while (q[j] > x);
+		if (i < j) swap(q[i], q[j]);
+	}
+
+// Step 2: use recursion to solve the sub problems
+	quick_sort(q, l, j), quick_sort(q, j + 1, r);
+
+// Step 3: merge sub problems
+}
+```
+
 ## InsertionSort
 
 `Java`
@@ -84,28 +106,6 @@ def insertionSort(arr):
                 arr[j + 1] = arr[j]
                 j -= 1
         arr[j + 1] = key
-```
-
-## QuickSort
-
-```cpp
-void quick_sort(int q[], int l, int r)
-{
-	if (l >= r) return;
-
-// Step 1: Divide the Large Problem into sub problems
-	int i = l - 1, j = r + 1, x = q[l + r >> 1];
-	while (i < j) {
-		do i ++; while (q[i] < x);
-		do j ++; while (q[j] > x);
-		if (i < j) swap(q[i], q[j]);
-	}
-
-// Step 2: use recursion to solve the sub problems
-	quick_sort(q, l, j), quick_sort(q, j + 1, r);
-
-// Step 3: merge sub problems
-}
 ```
 
 ## MergeSort
