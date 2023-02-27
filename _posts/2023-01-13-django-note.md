@@ -326,3 +326,18 @@ CSS 样式文件
 JS 文件
 IMG 图片等文件
 ```
+**快速上手**
+- 确保app已经注册
+> settings.py -> INSTALLED_APPS
+- 编写URL和视图函数对应关系
+> urls.py
+- 编写视图函数
+- 启动django项目
+> 命令行 python manage.py runserver
+
+4.2
+
+templates 模版
+
+4.3
+静态文件
