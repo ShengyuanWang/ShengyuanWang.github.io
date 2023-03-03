@@ -2,21 +2,21 @@ Hey, I'm Shengyuan Wang (a.k.a. Alan, _@SWang_). I am a Junior student majoring 
 
 [Resume](/files/resume.pdf) [CV](/files/resume.pdf)
 
-**Work Experience**  
+**Work Experience**
 
 |Feb 2023 -- Now | Frontend Developer @ [ Felidae Conservation Fund ](https://felidaefund.org/)|  
 |May 2022 -- Sept 2022 | Software Engineer @ [NetEase Game](https://www.neteasegames.com/)|  
 |Nov 2021 -- Jan 2022 | Program Assistant @ [Ramsey County](https://www.ramseycounty.us/)|  
-|Oct 2020 -- Now | Software Developer @ [FIRA Robo Organization](https://firaworldcup.org/)|  
+|Oct 2020 -- Now | Software Developer @ [FIRA Robo Organization](https://firaworldcup.org/)|
 
-**Research Experience**  
+**Research Experience**
 
 **Teaching**
 
 |Fall 2021| `COMP 123` &nbsp; &nbsp; Introduction to Computer Science|  
 |Spring 2022| `COMP 221` &nbsp; &nbsp; Algorithm Design and Analysis|  
-|Fall 2022| `COMP 221`  &nbsp; &nbsp; Algorithm Design and Analysis|  
-|Spring 2023| `COMP 221` &nbsp; &nbsp; Algorithm Design and Analysis|  
+|Fall 2022| `COMP 221` &nbsp; &nbsp; Algorithm Design and Analysis|  
+|Spring 2023| `COMP 221` &nbsp; &nbsp; Algorithm Design and Analysis|
 
 ### Publications
 
@@ -29,10 +29,11 @@ Unlocking the Secrets of Wordle: Predicting Game Difficulty and User Experience
 
 ### Honor Prizes
 
-Mathematic Contest In Modeling Finalist Prize  
-Macalester Local Contest First Place  
-Macalester Local Contest First Place  
-ICPC Regional Prize Gold Prize  
-Global Medal in All-Round U19  
-Silver Medal in Data Analysis Challenge U19  
-Gold Medal in Programming Challenge U19
+|May 2022|Mathematic Contest In Modeling (MCM) **Finalist Prize**|  
+|Dec 2021|Macalester Local Contest **First Place**|  
+|Dec 2022 |Macalester Local Contest **First Place**|  
+|March 2022 |ICPC Regional Prize **Bronze Prize**|  
+|March 2023 |ICPC Regional Prize **Silver Prize**|  
+|Oct 2020|  FIRA ROBO All-Round U19 **Global Medal**|  
+|Oct 2020| FIRA Data Analysis Challenge U19 **Silver Medal**|  
+|Oct 2020| FIRA Programming Challenge U19 **Gold Medal**|  
