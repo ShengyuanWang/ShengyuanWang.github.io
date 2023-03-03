@@ -9,6 +9,8 @@ multilingual: true
 
 {% include multilingual-sel.html %}
 
+
+
 <!-- Chinese Version -->
 <div class="zh post-container">
     {% capture about_zh %}{% include about/zh.md %}{% endcapture %}
@@ -20,8 +22,6 @@ multilingual: true
     {% capture about_en %}{% include about/en.md %}{% endcapture %}
     {{ about_en | markdownify }}
 </div>
-
-
 <!-- {% if site.disqus_username %} -->
 <!-- disqus 评论框 start -->
 <!-- <div class="comment">
