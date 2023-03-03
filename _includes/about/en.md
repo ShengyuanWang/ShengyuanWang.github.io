@@ -29,11 +29,11 @@ Unlocking the Secrets of Wordle: Predicting Game Difficulty and User Experience
 
 ### Honor Prizes
 
-|May 2022|Mathematic Contest In Modeling (MCM) **Finalist Prize**|  
-|Dec 2021|Macalester Local Contest **First Place**|  
-|Dec 2022 |Macalester Local Contest **First Place**|  
-|March 2022 |ICPC Regional Prize **Bronze Prize**|  
-|March 2023 |ICPC Regional Prize **Silver Prize**|  
-|Oct 2020|  FIRA ROBO All-Round U19 **Global Medal**|  
-|Oct 2020| FIRA Data Analysis Challenge U19 **Silver Medal**|  
-|Oct 2020| FIRA Programming Challenge U19 **Gold Medal**|  
+|May 2022| **Finalist Prize** @ [Mathematic Contest In Modeling (MCM)](https://www.contest.comap.com/undergraduate/contests/)|  
+|Dec 2021|**First Place** @ [Macalester Local Contest](https://www.macalester.edu/mscs/studentopportunities/competitions/) |  
+|Dec 2022 | **First Place** @ [Macalester Local Contest](https://www.macalester.edu/mscs/studentopportunities/competitions/)|  
+|March 2022 |**Bronze Prize**  @ [ICPC Regional Contest](https://www.icpc.org/) |  
+|March 2023 |**Silver Prize** @ [ICPC Regional Contest](https://www.icpc.org/) |  
+|Oct 2020| **Global Medal** @ [FIRA ROBO All-Round U19](https://firaworldcup.org/leagues/fira-challenges/autonomous-cars/) |  
+|Oct 2020| **Silver Medal** @ [FIRA Data Analysis Challenge U19](https://firaworldcup.org/leagues/fira-challenges/autonomous-cars/)|  
+|Oct 2020| **Gold Medal** @ [FIRA Programming Challenge U19](https://firaworldcup.org/leagues/fira-challenges/autonomous-cars/) |
