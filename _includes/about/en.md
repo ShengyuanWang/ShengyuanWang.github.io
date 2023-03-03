@@ -2,22 +2,21 @@ Hey, I'm Shengyuan Wang (a.k.a. Alan, _@SWang_). I am a Junior student majoring 
 
 [Resume](/files/resume.pdf) [CV](/files/resume.pdf)
 
-### News
+**Work Experience**  
 
-### Work Experience
+|Feb 2023 -- Now | Frontend Developer @ [ Felidae Conservation Fund ](https://felidaefund.org/)|  
+|May 2022 -- Sept 2022 | Software Engineer @ [NetEase Game](https://www.neteasegames.com/)|  
+|Nov 2021 -- Jan 2022 | Program Assistant @ [Ramsey County](https://www.ramseycounty.us/)|  
+|Oct 2020 -- Now | Software Developer @ [FIRA Robo Organization](https://firaworldcup.org/)|  
 
-NetEase Game Software Engineer May 2022 -- Now  
-FIRA Roboworld Cup Software Developer & Committee Member Oct 2020 -- Now  
-Ramsey County Program Assistant  
-Felidae Conservation Fund Frontend Developer Feb 2023 -- Now
+**Research Experience**  
 
-### Research Experience
+**Teaching**
 
-### Teaching
-
-**Spring 2022** COMP123 Intro To Computer Science  
-**Fall 2022** COMP221 Algorithm Design and Analysis  
-**Spring 2023** COMP123 Algorithm Design and Analysis
+|Fall 2021| `COMP 123` &nbsp; &nbsp; Introduction to Computer Science|  
+|Spring 2022| `COMP 221` &nbsp; &nbsp; Algorithm Design and Analysis|  
+|Fall 2022| `COMP 221`  &nbsp; &nbsp; Algorithm Design and Analysis|  
+|Spring 2023| `COMP 221` &nbsp; &nbsp; Algorithm Design and Analysis|  
 
 ### Publications
 
