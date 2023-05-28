@@ -22,17 +22,17 @@ Hey, I'm Shengyuan Wang (a.k.a. Alan, _@SWang_). I am a rising Junior student ma
 **Improvements To Naive Loss Functions With Outlier Identifiers**  
 [paper](https://ieeexplore.ieee.org/document/9339696) | code  
 **An Optimal Trading System based on LSTM and Dynamic Programming**  
-[paper](/files/papers/MCM_2022.pdf) | code  
+[paper](/files/papers/MCM_2022.pdf) | [code](https://github.com/ShengyuanWang/MCM_2022)  
 **An Algorithmic Approach to Knapsack Problems**  
-[paper](/files/papers/494_Final_Paper.pdf) | code  
+[paper](/files/papers/494_Final_Paper.pdf) | [code](https://github.com/ShengyuanWang/494-Capstone-Project)  
 **Performance Comparison of OpenMP and OpenACC in Floyd Warshall Algorithm**  
-[paper](/files/papers/COMP445_Final_Paper.pdf) | code  
+[paper](/files/papers/COMP445_Final_Paper.pdf) | [code](https://github.com/ShengyuanWang/COMP445-Project)  
 **Study on PID Control Design and Electric Kettle Simulation**  
-[paper](/files/papers/PID_Research.pdf) | code  
+[paper](/files/papers/PID_Research.pdf) | [code](https://github.com/ShengyuanWang/PID-Autotune)  
 **Unlocking the Secrets of Wordle: Predicting Game Difficulty and User Experience**  
-[paper](/files/papers/2320341.pdf) | code  
+[paper](/files/papers/2320341.pdf) | [code](https://github.com/ShengyuanWang/MCM-2023)  
 **Real-time Grass Rendering Using Billboarding Technique**  
-[paper](/files/papers/COMP465_Final_Paper.pdf) | code
+[paper](/files/papers/COMP465_Final_Paper.pdf) | [code](https://github.com/ShengyuanWang/Grass-Rendering)
 
 #### **Honor Prizes**
 
