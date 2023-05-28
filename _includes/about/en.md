@@ -38,7 +38,7 @@ Hey, I'm Shengyuan Wang (a.k.a. Alan, _@SWang_). I am a rising Junior student ma
 **Factors affecting Weight and Diabetes**  
 [paper](/files/papers/stat155.pdf) | [code](/files/papers/FinalReport_RCode.pdf)  
 **Matrix Completion and Recommendation Systems**  
-[paper](/files/papers/Math_Comp_365_Project_Shengyuan_Wenxuan.pdf) | [code](/files/papers/FinalReport_RCode.pdf)  
+[paper](/files/papers/Math_Comp_365_Project_Shengyuan_Wenxuan.pdf) | [code](https://github.com/ShengyuanWang/matrix-completion)
 
 #### **Honor Prizes**
 
