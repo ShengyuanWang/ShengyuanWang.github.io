@@ -32,7 +32,13 @@ Hey, I'm Shengyuan Wang (a.k.a. Alan, _@SWang_). I am a rising Junior student ma
 **Unlocking the Secrets of Wordle: Predicting Game Difficulty and User Experience**  
 [paper](/files/papers/2320341.pdf) | [code](https://github.com/ShengyuanWang/MCM-2023)  
 **Real-time Grass Rendering Using Billboarding Technique**  
-[paper](/files/papers/COMP465_Final_Paper.pdf) | [code](https://github.com/ShengyuanWang/Grass-Rendering)
+[paper](/files/papers/COMP465_Final_Paper.pdf) | [code](https://github.com/ShengyuanWang/Grass-Rendering)  
+**THREE-BODY PROBLEM AND SIMULATION**  
+[paper](/files/papers/Three_body_project.pdf) | [code](https://github.com/ShengyuanWang/Math312)  
+**Factors affecting Weight and Diabetes**  
+[paper](/files/papers/stat155.pdf) | [code](/files/papers/FinalReport_RCode.pdf)  
+**Matrix Completion and Recommendation Systems**  
+[paper](/files/papers/Math_Comp_365_Project_Shengyuan_Wenxuan.pdf) | [code](/files/papers/FinalReport_RCode.pdf)  
 
 #### **Honor Prizes**
 
