@@ -1,39 +1,47 @@
-Hey, I'm Shengyuan Wang (a.k.a. Alan, _@SWang_). I am a Junior student majoring mathematics and computer science at [Macalester College](https://www.macalester.edu/) advised by Prof. [Andrew Beveridge](https://mathbeveridge.github.io/) and [Susan Fox](https://www.macalester.edu/~fox/). I am the committee member of [FIRA ROBO Organization](https://firaworldcup.org/) and Researcher in [Felidae Conservation Fund](https://felidaefund.org/). The virtual doppelganger is a daily presence in [Weibo](https://weibo.com/Shengyuan_W)、[Zhihu](https://www.zhihu.com/people/wang-sy-96)、[Bilibili](https://space.bilibili.com/458176225)、[Instagram](https://www.instagram.com/alan_wang0518/)
+Hey, I'm Shengyuan Wang (a.k.a. Alan, _@SWang_). I am a rising Junior student majoring mathematics and computer science at [Macalester College](https://www.macalester.edu/) advised by Prof. [Andrew Beveridge](https://mathbeveridge.github.io/) and [Susan Fox](https://www.macalester.edu/~fox/). In Macalester College, I work with Prof. [Libby Shoop](https://libbyshoop.webs.com/) for teaching [Parallel and Distributed Computing](https://catalog.macalester.edu/preview_course_nopop.php?catoid=23&coid=119992), and work with Prof. [Jason McDonald](https://www.macalester.edu/mscs/facultystaff/jason-mcdonald/) in [MAX Center](https://www.macalester.edu/max/#/12). Outside campus, I am the committee member of [FIRA ROBO Organization](https://firaworldcup.org/) and researcher in [Felidae Conservation Fund](https://felidaefund.org/). The virtual doppelganger is a daily presence in [Weibo](https://weibo.com/Shengyuan_W)、[Zhihu](https://www.zhihu.com/people/wang-sy-96)、[Bilibili](https://space.bilibili.com/458176225)、[Instagram](https://www.instagram.com/alan_wang0518/)
 
-[Resume](/files/resume.pdf) [CV](/files/resume.pdf)
+[Resume](/files/resume.pdf) ｜ [CV](/files/resume.pdf)
 
-**Work Experience**
+#### **Work Experience**
 
 |Feb 2023 -- Now | Frontend Developer @ [ Felidae Conservation Fund ](https://felidaefund.org/)|  
 |May 2022 -- Sept 2022 | Software Engineer @ [NetEase Game](https://www.neteasegames.com/)|  
 |Nov 2021 -- Jan 2022 | Program Assistant @ [Ramsey County](https://www.ramseycounty.us/)|  
 |Oct 2020 -- Now | Software Developer @ [FIRA Robo Organization](https://firaworldcup.org/)|
 
-**Research Experience**
+#### **Teaching**
 
-**Teaching**
+|Fall 2021| `COMP 123` &nbsp; &nbsp; [Introduction to Computer Science](https://catalog.macalester.edu/preview_course_nopop.php?catoid=23&coid=119968)|  
+|Spring 2022| `COMP 221` &nbsp; &nbsp; [Algorithm Design and Analysis](https://catalog.macalester.edu/preview_course_nopop.php?catoid=23&coid=119972)|  
+|Fall 2022| `COMP 221` &nbsp; &nbsp; [Algorithm Design and Analysis](https://catalog.macalester.edu/preview_course_nopop.php?catoid=23&coid=119972)|  
+|Spring 2023| `COMP 221` &nbsp; &nbsp; [Algorithm Design and Analysis](https://catalog.macalester.edu/preview_course_nopop.php?catoid=23&coid=119972)|
+|Fall 2023| `COMP 445` &nbsp; &nbsp; [Parallel and Distributed Computing](https://catalog.macalester.edu/preview_course_nopop.php?catoid=23&coid=119992) & [MAX Center Tutor](https://www.macalester.edu/max/#/12)|
 
-|Fall 2021| `COMP 123` &nbsp; &nbsp; Introduction to Computer Science|  
-|Spring 2022| `COMP 221` &nbsp; &nbsp; Algorithm Design and Analysis|  
-|Fall 2022| `COMP 221` &nbsp; &nbsp; Algorithm Design and Analysis|  
-|Spring 2023| `COMP 221` &nbsp; &nbsp; Algorithm Design and Analysis|
+#### **Publications**
 
-### Publications
+**Improvements To Naive Loss Functions With Outlier Identifiers**  
+[paper](https://ieeexplore.ieee.org/document/9339696) | code  
+**An Optimal Trading System based on LSTM and Dynamic Programming**  
+[paper](/files/papers/MCM_2022.pdf) | code  
+**An Algorithmic Approach to Knapsack Problems**  
+[paper](/files/papers/494_Final_Paper.pdf) | code  
+**Performance Comparison of OpenMP and OpenACC in Floyd Warshall Algorithm**  
+[paper](/files/papers/COMP445_Final_Paper.pdf) | code  
+**Study on PID Control Design and Electric Kettle Simulation**  
+[paper](/files/papers/PID_Research.pdf) | code  
+**Unlocking the Secrets of Wordle: Predicting Game Difficulty and User Experience**  
+[paper](/files/papers/2320341.pdf) | code  
+**Real-time Grass Rendering Using Billboarding Technique**  
+[paper](/files/papers/COMP465_Final_Paper.pdf) | code
 
-Improvements To Naive Loss Functions With Outlier Identifiers  
-An Optimal Trading System based on LSTM and Dynamic Programming  
-An Algorithmic Approach to Knapsack Problems  
-Performance Comparison of OpenMP and OpenACC in Floyd Warshall Algorithm  
-Study on PID Control Design and Electric Kettle Simulation  
-Unlocking the Secrets of Wordle: Predicting Game Difficulty and User Experience
+#### **Honor Prizes**
 
-### Honor Prizes
-
-|May 2022| **Finalist Prize** @ [Mathematic Contest In Modeling (MCM)](https://www.contest.comap.com/undergraduate/contests/)|  
-|Dec 2021|**First Place** @ [Macalester Local Contest](https://www.macalester.edu/mscs/studentopportunities/competitions/) |  
-|Dec 2022 | **First Place** @ [Macalester Local Contest](https://www.macalester.edu/mscs/studentopportunities/competitions/)|  
-|March 2022 |**Bronze Prize**  @ [ICPC Regional Contest](https://www.icpc.org/) |  
+|May 2023| **Finalist Prize** @ [Mathematic Contest In Modeling (MCM)](https://www.contest.comap.com/undergraduate/contests/)|  
 |March 2023 |**Silver Prize** @ [ICPC Regional Contest](https://www.icpc.org/) |  
+|Dec 2022 | **First Place** @ [Macalester Local Contest](https://www.macalester.edu/mscs/studentopportunities/competitions/)|  
+|May 2022| **Finalist Prize** @ [Mathematic Contest In Modeling (MCM)](https://www.contest.comap.com/undergraduate/contests/)|  
+|March 2022 |**Bronze Prize** @ [ICPC Regional Contest](https://www.icpc.org/) |  
+|Dec 2021|**First Place** @ [Macalester Local Contest](https://www.macalester.edu/mscs/studentopportunities/competitions/) |  
 |Oct 2020| **Global Medal** @ [FIRA ROBO All-Round U19](https://firaworldcup.org/leagues/fira-challenges/autonomous-cars/) |  
 |Oct 2020| **Silver Medal** @ [FIRA Data Analysis Challenge U19](https://firaworldcup.org/leagues/fira-challenges/autonomous-cars/)|  
 |Oct 2020| **Gold Medal** @ [FIRA Programming Challenge U19](https://firaworldcup.org/leagues/fira-challenges/autonomous-cars/) |
