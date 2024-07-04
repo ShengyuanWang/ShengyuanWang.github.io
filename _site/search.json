@@ -1,0 +1,43 @@
+[
+  
+    {
+      "title"    : "Mac terminal git Lang Change",
+      "subtitle" : "Language change from Chinese to English",
+      "tags"     : "git",
+      "url"      : "/2023/02/01/mac-terminal-git-lang-change/",
+      "date"     : "2023-02-01 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "Mysql Note",
+      "subtitle" : "Personal Reflection About Mysql Learning",
+      "tags"     : "Mysql",
+      "url"      : "/2023/01/16/mysql-note/",
+      "date"     : "2023-01-16 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "Basic Algorithm Note",
+      "subtitle" : "Personal Reflection From COMP221@MAC",
+      "tags"     : "Algorithm",
+      "url"      : "/2023/01/14/basic-algorithm-note/",
+      "date"     : "2023-01-14 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "React Notes",
+      "subtitle" : "Reflection #01",
+      "tags"     : "React",
+      "url"      : "/2023/01/10/react-notes/",
+      "date"     : "2023-01-10 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "Course File @ Mac",
+      "subtitle" : "Hidden Course Files",
+      "tags"     : "",
+      "url"      : "/2023/01/10/hidden-notes/",
+      "date"     : "2023-01-10 00:00:00 +0800"
+    } 
+  
+]
