@@ -1,11 +1,13 @@
-Hey, I'm Shengyuan Wang (a.k.a. Alan, _@SWang_). I am a rising Junior student majoring mathematics and computer science at [Macalester College](https://www.macalester.edu/) advised by Prof. [Andrew Beveridge](https://mathbeveridge.github.io/) and [Susan Fox](https://www.macalester.edu/~fox/). In Macalester College, I work with Prof. [Libby Shoop](https://libbyshoop.webs.com/) for teaching [Parallel and Distributed Computing](https://catalog.macalester.edu/preview_course_nopop.php?catoid=23&coid=119992), and work with Prof. [Jason McDonald](https://www.macalester.edu/mscs/facultystaff/jason-mcdonald/) in [MAX Center](https://www.macalester.edu/max/#/12). Outside campus, I am the committee member of [FIRA ROBO Organization](https://firaworldcup.org/) and researcher in [Felidae Conservation Fund](https://felidaefund.org/). The virtual doppelganger is a daily presence in [Weibo](https://weibo.com/Shengyuan_W)、[Zhihu](https://www.zhihu.com/people/wang-sy-96)、[Bilibili](https://space.bilibili.com/458176225)、[Instagram](https://www.instagram.com/alan_wang0518/)
+Hey, I'm Shengyuan Wang (a.k.a. Alan, _@SWang_). I graduated from [Macalester College](https://www.macalester.edu/) advised by Prof. [Andrew Beveridge](https://mathbeveridge.github.io/) and [Susan Fox](https://www.macalester.edu/~fox/). Right now, I am a graduate student in University of Illinois Urbana Champaign. In Macalester College, I work with Prof. [Libby Shoop](https://libbyshoop.webs.com/) for teaching [Parallel and Distributed Computing](https://catalog.macalester.edu/preview_course_nopop.php?catoid=23&coid=119992), and work with Prof. [Jason McDonald](https://www.macalester.edu/mscs/facultystaff/jason-mcdonald/) in [MAX Center](https://www.macalester.edu/max/#/12). Outside campus, I am the committee member of [FIRA ROBO Organization](https://firaworldcup.org/) and researcher in [Felidae Conservation Fund](https://felidaefund.org/). The virtual doppelganger is a daily presence in [Weibo](https://weibo.com/Shengyuan_W)、[Zhihu](https://www.zhihu.com/people/wang-sy-96)、[Bilibili](https://space.bilibili.com/458176225)、[Instagram](https://www.instagram.com/alan_wang0518/)
 
 [Resume](/files/resume.pdf) ｜ [CV](/files/resume.pdf)
 
 #### **Work Experience**
 
-|Feb 2023 -- Now | Frontend Developer @ [ Felidae Conservation Fund ](https://felidaefund.org/)|  
-|May 2022 -- Sept 2022 | Software Engineer @ [NetEase Game](https://www.neteasegames.com/)|  
+|Apr 2025 -- Now | Technical Engineer Specialist  @ [ Synopsys ](https://www.synopsys.com/)|    
+|May 2024 -- Sept 2024 | Full Stack Developer & Cloud Computing  @ [ Ericsson ](https://www.ericsson.com/en)|    
+|Feb 2023 -- Jun 2023 | Frontend Developer @ [ Felidae Conservation Fund ](https://felidaefund.org/)|    
+|May 2022 -- Sept 2022 | Software Engineer @ [NetEase Game](https://www.neteasegames.com/)|    
 |Nov 2021 -- Jan 2022 | Program Assistant @ [Ramsey County](https://www.ramseycounty.us/)|  
 |Oct 2020 -- Now | Software Developer @ [FIRA Robo Organization](https://firaworldcup.org/)|
 
